@@ -9,4 +9,4 @@ function check(string) {
   return null;
 }
 const string = prompt("Enter string.");
-alert(c);
+  alert(check(string));
